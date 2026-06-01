@@ -25,4 +25,4 @@
 ---
 
 ## 🔗 4. 우리 함께 만나러 가요 (라이브 데모)
-- [ 실제 반응형 웹 프로필 확인하기](https://내깃허브아이디.github.io/저장소이름/)
+- [ 실제 반응형 웹 프로필 확인하기](https://keyboardkids.github.io/index.html/)
